@@ -4,6 +4,10 @@
         "details": [{
             "appID": "AEBS2RTG3U.assetlocation.xunji.com",
             "paths": ["/wxdemo"]
+            },
+            {
+            "appID": "FUCYG6KABG.com.redgoose.shopapp",
+            "paths": ["/redgoosewx"]
             }
           ]
     }
