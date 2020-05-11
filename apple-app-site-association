@@ -7,7 +7,7 @@
             },
             {
             "appID": "FUCYG6KABG.com.redgoose.shopapp",
-            "paths": ["/redgoosewx"]
+            "paths": ["/redgoosewx/*"]
             }
           ]
     }
