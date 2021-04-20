@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "AEBS2RTG3U.assetlocation.xunji.com",
+            "paths": ["/wxdemo"]
+            },
+            {
+            "appID": "FUCYG6KABG.com.redgoose.shopapp",
+            "paths": ["/redgoosewx/*"]
+            },
+            {
+            "appID": "ZYED498RP3.com.william.mobile.williamDemo",
+            "paths": ["/williamdemo/*"]
+            }
+          ]
+    }
+}
