@@ -15,11 +15,11 @@
             },
             {
             "appID": "NMSE2T4EGH.com.ewell.guahao.guanganmen",
-            "paths": ["/redgoosewx/*"]
+            "paths": ["/guanganmen/*"]
             },
             {
             "appID": "YU3566C3NH.com.ewell.guahao.guanganmen.uat",
-            "paths": ["/guanganmen/*"]
+            "paths": ["/guanganmenuat/*"]
             }
           ]
     }
