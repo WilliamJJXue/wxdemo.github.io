@@ -7,19 +7,19 @@
             },
             {
             "appID": "FUCYG6KABG.com.redgoose.shopapp",
-            "paths": ["/redgoosewx/*"]
+            "paths": ["/redgoosewx/*","*"]
             },
             {
             "appID": "ZYED498RP3.com.william.mobile.williamDemo",
-            "paths": ["/williamdemo/*"]
+            "paths": ["/williamdemo/*","*"]
             },
             {
             "appID": "NMSE2T4EGH.com.ewell.guahao.guanganmen",
-            "paths": ["/guanganmen/*"]
+            "paths": ["/guanganmen/*","*"]
             },
             {
             "appID": "YU3566C3NH.com.ewell.guahao.guanganmen.uat",
-            "paths": ["/guanganmenuat/*"]
+            "paths": ["/guanganmenuat/*","*"]
             }
           ]
     }
