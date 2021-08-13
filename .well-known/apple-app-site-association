@@ -12,6 +12,14 @@
             {
             "appID": "ZYED498RP3.com.william.mobile.williamDemo",
             "paths": ["/williamdemo/*"]
+            },
+            {
+            "appID": "NMSE2T4EGH.com.ewell.guahao.guanganmen",
+            "paths": ["/redgoosewx/*"]
+            },
+            {
+            "appID": "YU3566C3NH.com.ewell.guahao.guanganmen.uat",
+            "paths": ["/guanganmen/*"]
             }
           ]
     }
